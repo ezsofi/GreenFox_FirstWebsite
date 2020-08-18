@@ -1,0 +1,39 @@
+#navigation a   {
+                color: #ff0099;
+                font-size: 12px;
+                font: roboto;
+                position: horizontal;
+                top:0;
+                left:0; 
+                text-transform: uppercase;
+                background-color: #333333;
+                }
+
+#intro h1   {
+            font-size: 35px;
+            font: alata;
+                
+            }
+
+#intro h2   {
+            font-size: 30px;
+            color: #ff0099;    
+            }
+
+p   {
+    font-size:18px;
+    font:courier;
+    }
+
+#definitions h3 {
+                font-size: 25px;
+                
+                }
+#definitions dt {
+                font-size: 20px;
+                }
+                
+#definitions dd {
+    font-size: 15px;
+    font:roboto;
+    }
