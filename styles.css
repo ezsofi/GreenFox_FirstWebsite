@@ -1,39 +1,46 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: 1px;
+    padding: 100px 100px 100px 100px;
+}
 #navigation a   {
                 color: #ff0099;
-                font-size: 12px;
-                font: roboto;
-                position: horizontal;
-                top:0;
-                left:0; 
+                font-size: 18px;
                 text-transform: uppercase;
                 background-color: #333333;
+                
                 }
 
 #intro h1   {
-            font-size: 35px;
-            font: alata;
+            font-size: 38px;
+            
                 
             }
 
 #intro h2   {
-            font-size: 30px;
+            font-size: 32px;
             color: #ff0099;    
             }
 
 p   {
     font-size:18px;
-    font:courier;
     }
 
 #definitions h3 {
-                font-size: 25px;
+                font-size: 26px;
+                text-align: center;
+                line-height: 2;
                 
                 }
 #definitions dt {
-                font-size: 20px;
+                font-size: 22px;
+                line-height: 2;
+                
                 }
                 
 #definitions dd {
     font-size: 15px;
-    font:roboto;
+    line-height: 2;
     }
