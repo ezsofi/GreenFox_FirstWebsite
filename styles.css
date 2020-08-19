@@ -1,5 +1,5 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Consolas;
     font-size: 12px;
     line-height: 1;
     letter-spacing: 1px;
@@ -16,6 +16,8 @@ body{
 #intro h1   {
             font-size: 38px;
             
+            
+            
                 
             }
 
@@ -29,15 +31,15 @@ p   {
     }
 
 #definitions h3 {
-                font-size: 26px;
+                font-size: 32px;
                 text-align: center;
                 line-height: 2;
-                
+                font-weight: bold;
                 }
 #definitions dt {
                 font-size: 22px;
                 line-height: 2;
-                
+                font-weight: bold;
                 }
                 
 #definitions dd {
